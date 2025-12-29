@@ -9,7 +9,7 @@
 - 🔭 Lately, I’ve been working on **explainable fake news detection using DistilBERT**, along with adversarially robust vision models, reinforcement learning environments, and **Streamlit-based ML dashboards**.
 - 🤝 I’m open to collaborating on **explainable AI, robust machine learning, NLP systems**, and other **research-driven AI projects**, especially ones aiming for real-world reliability.
 - 🌱 I’m currently learning more about **advanced transformer architectures, adversarial ML, reinforcement learning**, and how to better design and evaluate AI research.
-- 💬 You can ask me about **XAI (SHAP/LIME)**, **BERT/DistilBERT-based NLP**, adversarial attacks and defenses, or how to structure ML projects for **research and MS applications**.
+- 💬 You can ask me about **XAI (SHAP/LIME)**, **BERT/DistilBERT-based NLP**, adversarial attacks and defenses, or how to structure ML projects for **research**.
 - ⚡ Most of my projects usually start as **research questions** and slowly turn into code.
 
 <h3>Connect with Me</h3>
